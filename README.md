@@ -6,3 +6,6 @@ Implementation of Data Structures and Algorithms in JavaScript.
 - Doubly Linked List
 - Stack
 - Queue
+- BST
+- AVL tree
+- Graph
